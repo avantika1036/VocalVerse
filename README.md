@@ -1,5 +1,5 @@
 # VocalVerse
-VocalVerse is a website that converts speech to text and text to speech for the people with visual and hearing impairments.
+VocalVerse is a website that converts speech to text and text to speech for the people with visual and hearing impairments created using HTML, CSS and JavaScript.
 
 # Application
 Visit VocalVerse page to further visit the home page, contact page, about page or use_now button.
